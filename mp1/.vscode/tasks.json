@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "type": "cppbuild",
+      "label": "Makefile build",
+      "command": "/usr/bin/make",
+      "args": [ "all" ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "group": "build"
+    }
+  ],
+  "version": "2.0.0"
+}
